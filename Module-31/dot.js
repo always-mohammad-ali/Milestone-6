@@ -12,3 +12,6 @@ console.log(obj[age]);
 
 
 console.log(obj['3']);
+
+
+// you can search for console dev tool api
