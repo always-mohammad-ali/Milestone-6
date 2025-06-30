@@ -32,3 +32,6 @@ console.log(nameLength);
 
 const firstLetter = names.map(firstL => firstL[0]);
 console.log(firstLetter);
+
+const nam = names.forEach(y => console.log(y));
+console.log(nam);
